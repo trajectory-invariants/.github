@@ -2,7 +2,7 @@
 
 This project develops Python and Matlab packages to support the use of invariant trajectory representations for trajectory analysis, recognition, generation, and prediction.
 
-See the [project website](https://trajectory-invariants.github.io/) for documentation and installation instructions.
+See the [Trajectory Invariants website](https://trajectory-invariants.github.io/) for documentation and installation instructions.
 
 <!--
 
