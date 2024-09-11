@@ -1,3 +1,8 @@
+
+  <img src="https://trajectory-invariants.github.io/images/logo-trajectory-invariants.png" alt="Logo Trajectory Invariants" title="Title text" width="1000">
+
+
+
 See the [Trajectory Invariants website](https://trajectory-invariants.github.io/) for documentation and installation instructions.
 
 <!--
