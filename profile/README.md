@@ -1,5 +1,5 @@
 
-  <img src="https://trajectory-invariants.github.io/images/logo-trajectory-invariants.png" alt="Logo Trajectory Invariants" title="Title text" width="1000">
+  <img src="https://trajectory-invariants.github.io/images/logo-trajectory-invariants.png" alt="Logo Trajectory Invariants" title="Trajectory Invariants" width="1000">
 
 
 
